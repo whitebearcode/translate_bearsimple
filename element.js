@@ -63,6 +63,6 @@
         c._ps = '';
         c._puh = 'translate.google.cn';
         _loadCss(c._ps);
-        _loadJs( '//cdn.jsdelivr.net/gh/whitebearcode/translate-bearsimple/main_zh-CN.js');
+        _loadJs( '//cdn.jsdelivr.net/gh/whitebearcode/translate_bearsimple/main_zh-CN.js');
     })();
 })();
